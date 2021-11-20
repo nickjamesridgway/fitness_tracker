@@ -12,7 +12,7 @@ express
 # Description
 A fitness tracker that will help track your cardio workout and exercises.
 # Usage
-[Click here for the live Heroku link.]()
+[Click here for the live Heroku link.](https://aqueous-fjord-51109.herokuapp.com/)
 # Questions
 If you have any questions, please e-mail me at nickjamesridgway@gmail.com.
 # Credits
